@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Small Node.js package for creating and validating encrypted app authorization keys.
-- A Basic integration needs to reuse the capabilities of @x12i/basic-auth inside a larger application.
+- Create an encrypted authorization key for one application.
+- Verify its application identity and expiry before accepting it in a consumer.
 
 ## Links
 
