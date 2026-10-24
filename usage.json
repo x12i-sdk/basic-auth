@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/basic-auth",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/basic-auth",
+  "usageRepository": "https://github.com/x12i-sdk/basic-auth",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Create and verify a temporary application authorization key",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:12:20.870077+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "7d51fc032047730c3eecf94347657ad56e33dcee1553f3e9629b33e2d9fab770",
+    "manifestSha256": "75749c0a7d0bc16761e0c7a3e6679547fdc237aa98519fc5aa8ca42de47b00b6"
+  }
+}
